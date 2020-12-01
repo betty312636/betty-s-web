@@ -10003,7 +10003,7 @@ header .greet_all .arrow {
   justify-content: center;
   width: 50px;
   height: 50px;
-  background-image: url(../image/betty-s-web/icon_hexagonal_black.png);
+  background-image: url(icon_hexagonal_black.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%;
@@ -10191,7 +10191,7 @@ header .greet_all .arrow {
   justify-content: center;
   width: 45px;
   height: 50px;
-  background-image: url(../image/betty-s-web/icon_hexagonal_black.png);
+  background-image: url(icon_hexagonal_black.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%;
@@ -10394,7 +10394,7 @@ header .greet_all .arrow {
   justify-content: center;
   width: 45px;
   height: 50px;
-  background-image: url(../image/betty-s-web/icon_hexagonal_black.png);
+  background-image: url(icon_hexagonal_black.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50%;
